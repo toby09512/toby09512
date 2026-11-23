@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner (可自行替換為頻譜瀑布圖或科技感橫幅) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Qing-You%20Zhu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RF%20%26%20Edge%20AI%20Engineer%20%7C%20Cybersecurity%20Practitioner&descAlignY=58&descSize=16" width="100%" />
+<!-- Header Banner -->
+<img src="./pic.jpg" width="100%" />
 
 <!-- Typing SVG Dynamic Subtitle -->
 <a href="https://github.com/toby09512">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-RF_&_Edge_AI-00E5FF?style=for-the-badge&logo=nvidia&logoColor=black" />
   <img src="https://img.shields.io/badge/Security-E%7CCIH_Candidate-D32F2F?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Taiwan-1E88E5?style=for-the-badge" />
-  <a href="https://toby09512.github.io/APP/">
+  <a href="https://toby09512.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-2E7D32?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -90,18 +90,3 @@ Unlike pure software developers, my background bridges **hardware-level communic
 - 🎯 **EC-Council E|CIH (212-89)** — *In Training (Target: Early 2027)*
 - 🏆 **CYBERSEC 2026** — *Participant & Technical Track Evaluator*
 - 🧩 **CTF & Write-ups** — *Cryptography (AES-CTR Nonce Reuse), LSB Steganography, and Network Forensics*
-
-<!--
-**toby09512/toby09512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
